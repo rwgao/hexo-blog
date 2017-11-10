@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+# 忽略本地开发文件
+db.json
+public
+
+# 忽略生产打包
+.deploy_git
