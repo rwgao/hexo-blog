@@ -14,7 +14,7 @@ keywords: 前端,js,jquery,javascript,html5,开发者,程序猿,程序媛,极客
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: //gaorongwei.cn/my-blog
+url: https://rwgao.github.io/my-blog
 root: /my-blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
